@@ -8,7 +8,7 @@ og_image: content-updates-with-web-publisher.png
 
 Content update? A small typo fix? No worries - Web Publisher makes this experience pleasant, including those of us who are not technical!
 
-This page covers using Web Publisher to update your blog posts, docs, or wiki pages.
+This page covers using Web Publisher to update your blog posts, docs, or wiki pages.h
 
 ## What is Web Publisher?
 
